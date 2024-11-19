@@ -1,7 +1,7 @@
 import { useState, createContext, useContext } from 'react'
 import './App.css'
 
-//Context API dons'nt optimise the rerendering of the page . but librays like recoil, mobex,zoostand... etc these library will optimise the rerendering of the page
+//Context API dons'nt optimise the rerendering of the page . but state management  librays like recoil, mobex,zoostand... etc these library will optimise the rerendering of the page, Means it will decrease the rerendering of unwanted components
 
 /*
 # Context API
